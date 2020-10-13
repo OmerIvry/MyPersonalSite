@@ -1,0 +1,18 @@
+body {
+    background-color:antiquewhite;
+}
+hr {
+    background-color: antiquewhite;
+    border-color: silver;
+    border-width: 5px;
+    border-style: none;
+    border-top-style: dotted;
+    width: 5%;
+}
+h1 {
+    color: #ff5722;
+    font-variant: small-caps;
+}
+h3 {
+    color: #00bcd4;   
+}
